@@ -116,7 +116,3 @@ Yes — you can **absolutely build powerful CLI (Command-Line Interface) apps**.
 
 ---
 
-## 🐍 Python Example Using Typer
-
-```bash
-pip install typer[all]
